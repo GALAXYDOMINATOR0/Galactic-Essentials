@@ -1,4 +1,3 @@
-
 # 🌌 Galactic Essentials
 
 **Galactic Essentials** is a lightweight, modern essentials plugin built for SMP servers. It includes core quality-of-life commands such as teleport requests, balance tracking, clickable messages, and full configuration support — all designed for simplicity, performance, and customization.
