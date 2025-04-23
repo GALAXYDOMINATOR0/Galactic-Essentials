@@ -1,0 +1,12 @@
+name: Galactic-Essentials
+version: '1.0.0'
+main: youtube.galaxydominator.galacticEssentials.GalacticEssentials
+api-version: '1.21'
+authors: [ Galaxy_Dominator ]
+commands:
+  heal:
+    description: Heals a player
+    usage: /heal [player]
+  ping:
+    description: ping
+    usage: /ping [player]

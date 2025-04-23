@@ -1,0 +1,29 @@
+mongo:
+  uri: ""
+  database: ""
+
+join-message:
+  enabled: true
+  messages:
+    - "<green>Welcome, <yellow>%player%</yellow>!"
+    - "<gray>Enjoy your stay on <gold>Galactic SMP</gold> 🚀"
+    - "<aqua>Use <white>/help</white> if you're new!"
+word-filter:
+  - fuck
+
+
+tpa:
+  delay-seconds: 5
+  timeout-seconds: 60
+  cooldown-seconds: 30
+  messages:
+    teleport-delay: "<gray>Teleporting in <green>%seconds%</green> seconds. Don't move!"
+    teleport-cancelled-move: "<red>Teleport cancelled because you moved!"
+    teleported: "<green>You teleported to %target%."
+    request-sent: "<green>Teleport request sent to %target%."
+    request-received: "<yellow>%sender% has requested to teleport to you."
+    request-accepted: "<gray>You accepted the teleport request from %sender%."
+    request-denied: "<gray>You denied the teleport request."
+    request-expired: "<red>Teleport request from %sender% expired."
+    cooldown: "<red>You must wait before sending another teleport request."
+

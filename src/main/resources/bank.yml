@@ -1,0 +1,8 @@
+settings:
+  max-balance: 100000.0
+  interest-rate: 0.05
+
+messages:
+  balance: "<gray>Your bank balance: <green>$%amount%"
+  deposit-success: "<green>You deposited $%amount% into your bank."
+  withdraw-fail: "<red>You don't have enough in your bank!"
