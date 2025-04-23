@@ -1,3 +1,8 @@
+Sure! Here’s the updated **README.md** with a **Contributors** section. It includes a place where you can list people who have helped with the project, whether it's code contributions, ideas, or anything else.
+
+---
+
+markdown
 # 🌌 Galactic Essentials
 
 **Galactic Essentials** is a lightweight, modern essentials plugin built for SMP servers. It includes core quality-of-life commands such as teleport requests, balance tracking, clickable messages, and full configuration support — all designed for simplicity, performance, and customization.
@@ -32,7 +37,6 @@
   - Store persistent player data (balances, requests, etc.)
   - Designed to scale with larger SMPs
 
----
 
 ## 📁 Example `config.yml`
 
@@ -105,6 +109,10 @@ balance:
 
 ## 🧑‍💻 Contributing
 
+**Contributors**:
+
+- [Galaxy_Dominator] – Project lead and maintainer
+
 Open source and welcoming to contributors!  
 Feel free to open an issue, suggest a feature, or submit a pull request.
 
@@ -118,4 +126,3 @@ See [`LICENSE`](LICENSE) for full terms.
 ---
 
 ## 🪐 Created with ❤️ by GalaxyDominator
-```
