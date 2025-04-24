@@ -28,7 +28,7 @@
   - All messages, delays, cooldowns, and behaviors editable in `config.yml`
   - MiniMessage-based formatting for rich, styled text
 
-- 🗃 **MongoDB Integration (Optional)**
+- 🗃 **MongoDB Integration **
   - Store persistent player data (balances, requests, etc.)
   - Designed to scale with larger SMPs
 
